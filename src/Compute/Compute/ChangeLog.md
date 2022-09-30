@@ -20,6 +20,8 @@
 
 -->
 ## Upcoming Release
+
+## Version 4.32.0
 * Added property `TimeCreated` to the Virtual Machine and Virtual Machine Scale Set models.
 
 ## Version 4.31.0

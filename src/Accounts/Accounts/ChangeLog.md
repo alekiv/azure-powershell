@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 2.10.2
 * Supported tenant domain as input while using `Connect-AzAccount` with parameter `Tenant`. [#19471]
 * Upgraded Azure.Core to 1.25.0 and Azure.Identity to 1.6.1
 * Upgraded Microsoft.ApplicationInsights to 2.13.1

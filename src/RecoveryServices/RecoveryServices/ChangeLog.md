@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 6.0.0
 * [Breaking Change] Removed status filter from Get-AzRecoveryServicesBackupContainer command
 * Added SubTasks Duration for IaasVM job
 
